@@ -1,12 +1,12 @@
 # 📝 DocuQ-Ask-Questions-About-PDFs-Using-Mistral-AI-and-OCR
 📄DocuQ is a Streamlit-based web app that allows users to upload PDF documents and ask natural language questions about them. The app uses Mistral AI's OCR and chat models to extract text from documents and provide intelligent answers.
 ## Key Features:
-🔐 Secure Mistral API integration via environment variables
-📄 Upload any PDF document
-🤖 Uses Mistral’s OCR and chat models to extract and answer questions
-🧠 Stores Q&A logs per user in a local SQLite database
-👤 Session-based user management
-💾 Persistent Q&A log viewing
+-🔐 Secure Mistral API integration via environment variables
+-📄 Upload any PDF document
+-🤖 Uses Mistral’s OCR and chat models to extract and answer questions
+-🧠 Stores Q&A logs per user in a local SQLite database
+-👤 Session-based user management
+-💾 Persistent Q&A log viewing
 
 ## 🚀 Deployment & Setup
 1. Clone the repo:
