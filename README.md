@@ -1,4 +1,4 @@
-#📝 DocuQ-Ask-Questions-About-PDFs-Using-Mistral-AI-and-OCR
+# 📝 DocuQ-Ask-Questions-About-PDFs-Using-Mistral-AI-and-OCR
 📄DocuQ is a Streamlit-based web app that allows users to upload PDF documents and ask natural language questions about them. The app uses Mistral AI's OCR and chat models to extract text from documents and provide intelligent answers.
 ## Key Features:
 🔐 Secure Mistral API integration via environment variables
@@ -39,7 +39,7 @@ docuq/
 └── README.md             # This file
 ```
 
-##🙋‍♀️ Contributing
+## 🙋‍♀️ Contributing
 -Pull requests are welcome! To contribute:
 -Fork the project
 -Create a new branch (git checkout -b feature-name)
@@ -47,6 +47,6 @@ docuq/
 -Push to the branch (git push origin feature-name)
 -Open a Pull Request
 
-##⚖️ License
+## ⚖️ License
 This project is licensed under the MIT License
  – feel free to use, modify, and distribute!
